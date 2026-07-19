@@ -2,7 +2,7 @@
 
 Drag it anywhere, adjust its appearance, then pin it to make it click-through. Use the tray menu or `Ctrl+Alt+Shift+U` whenever you want to change it again.
 
-**[Download the Windows installer](WINDOWS_INSTALLER_URL)**
+**[Download the Windows installer](https://github.com/xiv01/CodexOverlay/releases/download/0.1.0/Codex.Usage.Overlay_0.1.0_x64-setup.exe)**
 
 ## Screenshots
 
